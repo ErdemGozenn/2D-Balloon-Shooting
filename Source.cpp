@@ -8,6 +8,7 @@ when press the up and down key, the gun moving in Y cordinates
 #include <GL/glut.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 #include <string.h>
 #include <time.h>
 
